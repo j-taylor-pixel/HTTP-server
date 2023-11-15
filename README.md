@@ -1,12 +1,8 @@
 # Description
-Web server built in python that handles http requests. 
-The server supports GET and HEAD requests.
+Web server built in python that handles http requests with support for GET and HEAD.
+The server uses TCP web sockets and implements the HTTP protocol.
 
 # How to use
-Navigate to the Lab2Task1 folder
-
-`cd Lab2Task1`
-
 Run the webserver
 
 `python webserver.py`
